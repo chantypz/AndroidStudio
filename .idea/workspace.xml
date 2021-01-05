@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e9eb3e-f06d-4ca4-b70a-c83c7e790946" name="Default Changelist" comment="TP THIAGO">
+    <list default="true" id="b3e9eb3e-f06d-4ca4-b70a-c83c7e790946" name="Default Changelist" comment="examTHIAGO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609799721101</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="examTHIAGO">
+      <created>1609852652767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609852652768</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,12 +92,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TP THIAGO" />
-    <option name="LAST_COMMIT_MESSAGE" value="TP THIAGO" />
+    <MESSAGE value="examTHIAGO" />
+    <option name="LAST_COMMIT_MESSAGE" value="examTHIAGO" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="550" y="83" key="Vcs.Push.Dialog.v2" timestamp="1609799730590">
+    <state x="550" y="83" key="Vcs.Push.Dialog.v2" timestamp="1609852662617">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609799730590" />
+    <state x="550" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609852662617" />
   </component>
 </project>
